@@ -1,0 +1,22 @@
+body
+{
+    color : #D01215;
+    background-color: blanchedalmond;
+    font-family: monospace;
+    font-size: 15px;
+    text-align: center;
+    margin: 1;
+    padding: 1;
+}
+#container 
+{
+    width: 45%;
+    padding: 1cm;
+    text-align: right;
+    border: 5px solid chocolate;
+    margin: 0 auto;
+}
+#container h1
+{
+    font-size: 20px;
+}
