@@ -8,6 +8,22 @@ body
     margin: 1;
     padding: 1;
 }
+#Kopf
+{
+    text-align: left;
+    background: rgba(255, 200, 0, 0.662);
+    color: black;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.1cm;
+    box-shadow: 1px 2px 0px 4px #313131;
+}
+#Kopf #tagkopf
+{
+    padding: 1,50;
+    font-weight: lighter;
+    font-size: 0.18cm;
+}
 #container 
 {
     width: 45%;
@@ -19,4 +35,8 @@ body
 #container h1
 {
     font-size: 20px;
+}
+#post
+{
+    padding: 0
 }
