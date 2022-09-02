@@ -2,7 +2,7 @@ body
 {
     color : #D01215;
     background-color: blanchedalmond;
-    font-family: monospace;
+    font-family: monospace, Helvetica;
     font-size: 15px;
     text-align: center;
     margin: 1;
@@ -29,7 +29,7 @@ body
     width: 45%;
     padding: 1cm;
     text-align: right;
-    border: 5px solid rgb(23, 40, 228);
+    border: 5px solid rgb(181, 46, 107);
     margin: 0 auto;
 }
 #container h1
