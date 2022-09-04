@@ -1,4 +1,4 @@
-Cucumber, Carrot, Eggplant, Pepper, Beet
-Pepino, Cenoura, Beringela, Pimentos, Beterraba
-Gurke, Karrote, Aubergine, Pfeffer, Rüben
-Cetriolo, Carota, Melanzane, Pepe, Barbabietole
+Cucumber, Carrot, Eggplant, Pepper, Beet, Apple, Pear
+Pepino, Cenoura, Beringela, Pimentos, Beterraba, maçã, pera
+Gurke, Karrote, Aubergine, Pfeffer, Rüben, Apfel, Birnen
+Cetriolo, Carota, Melanzane, Pepe, Barbabietole, Mela, Pera
