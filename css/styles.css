@@ -1,7 +1,7 @@
 body
 {
     color : #555;
-    background-color: rgb(255, 192, 98);
+    background: rgb(60, 60, 60);
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, Helvetica;
     font-size: 15px;
     text-align: center;
@@ -10,26 +10,31 @@ body
 }
 #Kopf
 {
-    text-align: right;
+    text-align: left;
     background: rgba(66, 160, 7, 0.662);
     color: black;
     font-weight: bolder;
     margin: 0;
     padding: 0.1cm;
-    box-shadow: 1px 2px 0px 4px #313131;
 }
+#Kopf #logo
+{
+    width: 42px;
+    vertical-align: middle;
+}
+
 #Kopf #tagkopf
 {
-    padding: 1,50;
-    font-weight: lighter;
-    font-size: 0.18cm;
+    padding: 0 0 0 1cm;
+    font-weight: normal;
+    font-size: 0.8cm
 }
 #container 
 {
     width: 45%;
-    padding: 1cm;
-    text-align: right;
-    border: 5px solid rgb(25, 255, 167);
+    padding: 0cm;
+    text-align: left;
+    border: 5px solid rgb(110, 6, 6);
     margin: 0 auto;
 }
 #container h1
@@ -38,5 +43,6 @@ body
 }
 #post
 {
-    padding: 0
+    background: white;
+    padding: 1cm;
 }
